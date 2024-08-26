@@ -2,6 +2,10 @@
 
 ## Notes
 
+### MongoDB
+
+- organization -> cluster -> database -> collection -> stuff
+
 ### Setup
 
 - npm install mongodb
